@@ -10,3 +10,6 @@ World Cup Recordings 1930-2014
 * 프로그램 구현 summary :
   - 3개의 csv형태의 데이터를 sqlite3-pandas를 연동하여 테이블간 정보를 join하여 필요한 정보를 추출
   - pyqt5-Qtdesigner를 사용하여 사용자인터페이스 구축
+
+![image](https://user-images.githubusercontent.com/61719257/119261305-c295df80-bc11-11eb-9f4b-f9e86a3afee3.png)
+
